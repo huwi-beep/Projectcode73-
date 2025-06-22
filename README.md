@@ -1,1 +1,53 @@
 # Projectcode73-
+# ProjectCode73
+
+**ProjectCode73** is a confidential experimental project performed by a group of scientists in Badin, Sindh, Pakistan.  
+The primary goal of this project was to explore the possibility of **wormhole creation** under extreme physical conditions.
+
+---
+
+## 📍 Location
+
+- **Peer Alishah Stadium Underground Base**
+- **Badin, Sindh, Pakistan**
+
+This location was selected due to its isolation and ability to support the high-energy requirements of the experiment.
+
+---
+
+## 🧪 About the Experiment
+
+The experiment was conducted in a controlled environment with:
+- **Extremely high magnetic fields**
+- **Strong gravitational forces**
+
+Researchers aimed to test theoretical predictions related to spacetime manipulation and wormhole formation. Data from the experiment is being shared here for future research and study.
+
+---
+
+## 📁 Files Included
+
+- `main.py` – Core logic (Python script)
+- `notes.txt` – Experiment logs
+- `README.md` – Project overview
+
+(*You can adjust this list based on what files you actually upload*)
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for **educational and theoretical research** purposes only.  
+No claim is made regarding the success or failure of the wormhole experiment.
+
+---
+
+## 📜 License
+
+MIT License (you can change this if needed)
+
+---
+
+## 👤 Author
+
+Uploaded by **huwi-beep**
